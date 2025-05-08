@@ -1,5 +1,5 @@
 {
-    "name": "custom_pkg",
+    "name": "old_display_driver",
     "cmake-args":[
         "-G Ninja"
     ]
